@@ -13,11 +13,7 @@ platforms:
   - type: Telegram
     icon: "fab fa-telegram"
     link: "https://t.me/share/url?url=URL&text=TITLE"
-  
-  - type: Reddit
-    icon: "fa-brands fa-square-reddit"
-    link: "https://www.reddit.com/submit?url=URL&title=TITLE"
-
+    
   # Uncomment below if you need to.
   #
   # - type: Linkedin
