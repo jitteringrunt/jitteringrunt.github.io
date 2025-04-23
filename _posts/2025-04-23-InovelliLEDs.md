@@ -11,13 +11,13 @@ Use [Inovelli Notifiction Calc](https://nathanfiscus.github.io/inovelli-notifica
 
 Additional nodes are added in disabled state to add additional segments if desired.
 
-Inovelli Switch Images
-
 ![Overview of Node Red Flow](https://github.com/user-attachments/assets/ba59dab3-1412-4a97-938f-6d814bdcccf3)
+
+Inovelli Switch Images
 
 No Doors Open
 ![No Doors Open With Blue Lights](https://github.com/user-attachments/assets/48ae4d41-6735-4e10-ba8b-adac60dc11da)
-
+<img align="left" src="https://github.com/user-attachments/assets/48ae4d41-6735-4e10-ba8b-adac60dc11da" alt="No Doors Open With Blue Lights">
 One Door Open
 ![One Door Open With Pink L E D](https://github.com/user-attachments/assets/f2cc7bde-c902-43b3-ac84-40781956d649)
 
