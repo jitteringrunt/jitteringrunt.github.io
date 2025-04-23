@@ -9,7 +9,11 @@
 #- type: email
 #  icon: "fas fa-envelope"
 #  noblank: true # open link in current tab
-
+#
+- type: reddit
+  icon: 'fa-brands fa-reddit'
+  url: 'https://www.reddit.com/user/cybilb'                   # Fill with your Reddit profile link
+#
 - type: rss
   icon: "fas fa-rss"
   noblank: true
@@ -30,10 +34,6 @@
 # - type: bluesky
 #   icon: 'fa-brands fa-bluesky'
 #   url: ''                   # Fill with your Bluesky profile link
-#
-- type: reddit
-  icon: 'fa-brands fa-reddit'
-  url: 'https://www.reddit.com/user/cybilb'                   # Fill with your Reddit profile link
 #
 # - type: threads
 #   icon: 'fa-brands fa-threads'
