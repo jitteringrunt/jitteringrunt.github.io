@@ -14,7 +14,8 @@ Additional nodes are added in disabled state to add additional segments if desir
 ![Overview of Node Red Flow](https://github.com/user-attachments/assets/ba59dab3-1412-4a97-938f-6d814bdcccf3)
 
 Inovelli Switch Images
-         
+
+| --- | --- |
 | No Doors Open | {::nomarkdown}<img src="https://github.com/user-attachments/assets/48ae4d41-6735-4e10-ba8b-adac60dc11da">{:/} |
 | One Door Open | {::nomarkdown}<img src="https://github.com/user-attachments/assets/f2cc7bde-c902-43b3-ac84-40781956d649">{:/} |
 | Two Doors Open | {::nomarkdown}<img src="(https://github.com/user-attachments/assets/fd5c3314-2ba7-4f90-817e-bfdee7db7646">{:/} |
