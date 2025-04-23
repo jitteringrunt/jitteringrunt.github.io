@@ -14,14 +14,18 @@ Additional nodes are added in disabled state to add additional segments if desir
 Inovelli Switch Images
 
 ![Overview of Node Red Flow](https://github.com/user-attachments/assets/ba59dab3-1412-4a97-938f-6d814bdcccf3)
+
 No Doors Open
-![No Doors Open With Blue Lights](https://github.com/user-attachments/assets/58bb0825-0b51-4cfe-ba35-08fb19b8fc5b)
+![No Doors Open With Blue Lights](https://github.com/user-attachments/assets/4ad5e784-b33a-49bf-811d-544e9c834735)
+
 One Door Open
-![One Door Open With Pink L E D](https://github.com/user-attachments/assets/32548826-e163-46a7-ac37-49b8f7421f7f)
+![One Door Open With Pink L E D](https://github.com/user-attachments/assets/745d6ed3-d282-47d0-a6ed-35f5188727b5)
+
 Two Doors Open
-![Two Doors Open With Teal and Pink L E D](https://github.com/user-attachments/assets/fc7bf0b7-c248-4c6e-8de7-cb68115f761d)
+![Two Doors Open With Teal and Pink L E D](https://github.com/user-attachments/assets/2c8b6cf7-63fc-49b0-b327-04812a77a6a3)
+
 Three Doors Open
-![Two Doors Open With Teal, Purple and Pink L E D](https://github.com/user-attachments/assets/925a6db7-c00e-463b-9b38-b5414cbd8ca0)
+![Two Doors Open With Teal, Purple and Pink L E D](https://github.com/user-attachments/assets/17d1cb3a-391c-4910-b4a5-1df663a89f49)
 
 Flow Code:
 ```
