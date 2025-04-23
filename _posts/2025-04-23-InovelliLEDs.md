@@ -28,7 +28,7 @@ Three Doors Open
 ![Two Doors Open With Teal, Purple and Pink L E D](https://github.com/user-attachments/assets/9b035647-6575-4f2a-ad61-e74d1343c990)
 
 Flow Code:
-```
+```json
 [
     {
         "id": "52473e36c384202c",
