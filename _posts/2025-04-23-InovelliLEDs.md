@@ -13,7 +13,7 @@ Additional nodes are added in disabled state to add additional segments if desir
 
 ![Overview of Node Red Flow](https://github.com/user-attachments/assets/ba59dab3-1412-4a97-938f-6d814bdcccf3)
 
-Inovelli Swithc Images
+Inovelli Switch Images
 
 No Doors Open
  
