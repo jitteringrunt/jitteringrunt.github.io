@@ -16,16 +16,16 @@ Inovelli Switch Images
 ![Overview of Node Red Flow](https://github.com/user-attachments/assets/ba59dab3-1412-4a97-938f-6d814bdcccf3)
 
 No Doors Open
-![No Doors Open With Blue Lights](https://github.com/user-attachments/assets/4ad5e784-b33a-49bf-811d-544e9c834735)
+![No Doors Open With Blue Lights](https://github.com/user-attachments/assets/48ae4d41-6735-4e10-ba8b-adac60dc11da)
 
 One Door Open
-![One Door Open With Pink L E D](https://github.com/user-attachments/assets/745d6ed3-d282-47d0-a6ed-35f5188727b5)
+![One Door Open With Pink L E D](https://github.com/user-attachments/assets/f2cc7bde-c902-43b3-ac84-40781956d649)
 
 Two Doors Open
-![Two Doors Open With Teal and Pink L E D](https://github.com/user-attachments/assets/2c8b6cf7-63fc-49b0-b327-04812a77a6a3)
+![Two Doors Open With Teal and Pink L E D](https://github.com/user-attachments/assets/fd5c3314-2ba7-4f90-817e-bfdee7db7646)
 
 Three Doors Open
-![Two Doors Open With Teal, Purple and Pink L E D](https://github.com/user-attachments/assets/17d1cb3a-391c-4910-b4a5-1df663a89f49)
+![Two Doors Open With Teal, Purple and Pink L E D](https://github.com/user-attachments/assets/9b035647-6575-4f2a-ad61-e74d1343c990)
 
 Flow Code:
 ```
