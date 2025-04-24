@@ -31,9 +31,9 @@ I am again using templating, but this time in a card.  I prefer the look and fea
 
 > Slight formatting tweaks might be needed for standard card types. 
 {: .prompt-info }
-
+{% raw %}
 The template card will look at the entity template sensor value and if, elif, else logic to set text values, icon values, and icon color.
-
+{% endraw %}
 > If you are combining items like I am between doors, covers, and locks, remember that this is getting applied top down, so make sure you are ordering items be importance.
 {: .prompt-warning }
 
