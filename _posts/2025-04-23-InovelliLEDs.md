@@ -5,15 +5,13 @@ categories: [Home Assistant, Node-Red]
 tags: [homeassistant, nodered]     # TAG names should always be lowercase
 ---
 
-Node-Red Flow to pull three different Home Assistant door sensor status into the individual Inovelli switch LEDs.  JSON is being sent to Inovelli switch via MQTT.
+This explains using Node-Red Flow to pull three different Home Assistant door sensors status into the individual Inovelli switch LEDs.  Three different LED will light depending on the door left open.  JSON is being sent to Inovelli switch via MQTT using zigbee2mqtt set commands.
 
-Use [Inovelli Notification Calc](https://nathanfiscus.github.io/inovelli-notification-calc/) for your color values.
-
-> An example showing the `info` type prompt.
-{: .prompt-info }
+> Use [Inovelli Notification Calc](https://nathanfiscus.github.io/inovelli-notification-calc/) for your color values.
+{: .prompt-tip }
 
 > Additional nodes are added in disabled state to add additional segments if desired.
-{: .prompt-tip }
+{: .prompt-info }
 
 ![Overview of Node Red Flow](https://github.com/user-attachments/assets/ba59dab3-1412-4a97-938f-6d814bdcccf3)
 
