@@ -31,9 +31,9 @@ I am again using templating, but this time in a card.  I prefer the look and fea
 
 > Slight formatting tweaks might be needed for standard card types. 
 {: .prompt-info }
-{% raw %}
+
 The template card will look at the entity template sensor value and if, elif, else logic to set text values, icon values, and icon color.
-{% endraw %}
+
 > If you are combining items like I am between doors, covers, and locks, remember that this is getting applied top down, so make sure you are ordering items be importance.
 {: .prompt-warning }
 
@@ -115,7 +115,7 @@ If all works well, this is how things look on the dashboard.
 Another option would tracking lights on in your house.  I use badge icons for this setup, as it can provide a count of lights on up to a certain level as well. This one uses a combination with a helper group for outside lights as I like to know they are on at night with everthing else off, but I don't really care about the count per se. 
 
 #### Mushroom Template Light Card Code:
-
+{% raw %}
 ```
 - type: custom:mushroom-template-card
         primary: Lights
@@ -176,6 +176,7 @@ Another option would tracking lights on in your house.  I use badge icons for th
             {% else %}
             {% endif %}
 ```
+{% endraw %}
 #### Card Light Status Screenshots
 
 > All Lights Off
