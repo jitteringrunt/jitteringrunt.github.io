@@ -19,19 +19,19 @@ This explains using Node-Red Flow to pull three different Home Assistant door se
 
 > No Doors Open
 > 
->![No Doors Open With Blue Lights](https://github.com/user-attachments/assets/48ae4d41-6735-4e10-ba8b-adac60dc11da)
+>![No Doors Open With Blue Lights](https://github.com/user-attachments/assets/48ae4d41-6735-4e10-ba8b-adac60dc11da){: .w-75 .normal}
  
 > One Door Open
 > 
->![One Door Open With Pink L E D](https://github.com/user-attachments/assets/f2cc7bde-c902-43b3-ac84-40781956d649)
+>![One Door Open With Pink L E D](https://github.com/user-attachments/assets/f2cc7bde-c902-43b3-ac84-40781956d649){: .w-75 .normal}
  
 > Two Doors Open
 > 
->![Two Doors Open With Teal and Pink L E D](https://github.com/user-attachments/assets/fd5c3314-2ba7-4f90-817e-bfdee7db7646)
+>![Two Doors Open With Teal and Pink L E D](https://github.com/user-attachments/assets/fd5c3314-2ba7-4f90-817e-bfdee7db7646){: .w-75 .normal}
  
 > Three Doors Open
 > 
->![Two Doors Open With Teal, Purple and Pink L E D](https://github.com/user-attachments/assets/9b035647-6575-4f2a-ad61-e74d1343c990)
+>![Two Doors Open With Teal, Purple and Pink L E D](https://github.com/user-attachments/assets/9b035647-6575-4f2a-ad61-e74d1343c990){: .w-75 .normal}
 
 #### Flow Code:
 ```json
