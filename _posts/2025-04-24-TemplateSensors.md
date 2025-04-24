@@ -5,7 +5,7 @@ categories: [Home Assistant]
 tags: [homeassistant, helpers]     # TAG names should always be lowercase
 ---
 
-I recently saw a Reddit post about Home Assistant helpers and wanting to leverge them more in their instance.  As someone who is always looking for interesting ways to solve problems in Home Assistant, helpers are large part of my setup.  While helpers can solve a myriad of problems, I use input.boolean, binary.sensor and template.sensor the most.  Template helpers specifically have several other types within this sub-category.  One example of this template usage is counting items like total number of locks secured or total number of lights on. 
+I recently saw a Reddit post about Home Assistant helpers and wanting to leverge them more in their instance.  As someone who is always looking for interesting ways to solve problems in Home Assistant, helpers are large part of my setup.  While helpers can solve a myriad of problems, I use input.boolean, binary.sensor and template.sensor the most.  Template helpers specifically have several other types within this sub-category.
 
 ### Door Status Tracking Example
 
