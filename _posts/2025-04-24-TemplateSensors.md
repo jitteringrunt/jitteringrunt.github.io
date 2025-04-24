@@ -12,7 +12,7 @@ One example of this template usage is counting items like total number of locks 
 ### Door Status Tracking Example
 
 #### Template Sensor Code
-
+{% raw %}
 ```yaml
 {% set locks = [
    states.lock.entryway_lock,
@@ -22,6 +22,7 @@ One example of this template usage is counting items like total number of locks 
    ] %}
 {{ locks | selectattr('state','eq','unlocked') | list | count }}
 ```
+{% endraw %}
 This same approach could be applied to several other device types. 
  
 Once the template is populated with entities, and the total count is established, you can then easily use this value to apply logic to determine the status of a group of items.
@@ -39,7 +40,7 @@ The template card will look at the entity template sensor value and if, elif, el
 Additionally I am using card mod to change the card background if the door value is > 0
 
 #### Mushroom Template Door Card Code:
-
+{% raw %}
 ```
       - type: custom:mushroom-template-card
         primary: Locks
@@ -90,7 +91,7 @@ Additionally I am using card mod to change the card background if the door value
             {% else %}
             {% endif %}
 ```
-
+{% endraw %}
 If all works well, this is how things look on the dashboard.
 
 #### Card Door Status Screenshots
