@@ -7,7 +7,7 @@ tags: [homeassistant, nodered]     # TAG names should always be lowercase
 
 Node-Red Flow to pull three different Home Assistant door sensor status into the individual Inovelli switch LEDs.  JSON is being sent to Inovelli switch via MQTT.
 
-Use [Inovelli Notifiction Calc](https://nathanfiscus.github.io/inovelli-notification-calc/) for your color values.
+Use [Inovelli Notification Calc](https://nathanfiscus.github.io/inovelli-notification-calc/) for your color values.
 
 Additional nodes are added in disabled state to add additional segments if desired.
 
