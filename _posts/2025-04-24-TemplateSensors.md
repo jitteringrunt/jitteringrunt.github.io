@@ -98,15 +98,17 @@ If all works well, this is how things look on the dashboard.
 
 > All Doors, Covers, and Locks Secured
 >
-> ![All Secured](https://github.com/user-attachments/assets/5a5da5c6-42ec-41e0-b5f0-e5335adccd7a)
+> ![All Doors, Covers, and Locks Secured](https://github.com/user-attachments/assets/269d7f54-43c9-4ec7-acb1-6975dd7274f5)
 
 > Door Unsecured
 >
-> ![Door Unsecured](https://github.com/user-attachments/assets/42a829d2-04c9-45d7-bd17-7952368c40fa)
+> ![Door Unsecured](https://github.com/user-attachments/assets/c9b3c8bf-d152-40e9-90ce-1bf78ca80b65)
+
 
 > Cover Unsecured
 >
-> ![Cover Unsecured](https://github.com/user-attachments/assets/7856b505-e171-4bc3-8669-f56e275d606d)
+> ![Cover Unsecured](https://github.com/user-attachments/assets/8c7b9bf0-9842-413d-98c4-1f79f23b96ba)
+
 
  
 
@@ -181,10 +183,12 @@ Another option would tracking lights on in your house.  I use badge icons for th
 
 > All Lights Off
 > 
->![All Lights Off](https://github.com/user-attachments/assets/be7f01fe-21e1-4f82-a53a-1ec5fd94b370)
+>![All Lights Off](https://github.com/user-attachments/assets/b6997023-6008-4e11-92ec-8d249b77a219)
+
 
 > One Light On
 > 
->![One Light On](https://github.com/user-attachments/assets/b64c7570-0888-4304-9de3-db504f0f4616)
+>![One Light On](https://github.com/user-attachments/assets/15ceb84e-a9da-4da8-9069-9e67b7c31e62)
+
 
 Enjoy!
