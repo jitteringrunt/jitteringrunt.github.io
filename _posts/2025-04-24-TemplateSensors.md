@@ -13,7 +13,7 @@ One example of this template usage is counting items like total number of locks 
 
 #### Template Sensor Code
 
-```
+```yaml
 {% set locks = [
    states.lock.entryway_lock,
    states.lock.connected_keypad_with_lever,
