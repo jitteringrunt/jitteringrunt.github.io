@@ -9,7 +9,8 @@ Node-Red Flow to pull three different Home Assistant door sensor status into the
 
 Use [Inovelli Notification Calc](https://nathanfiscus.github.io/inovelli-notification-calc/) for your color values.
 
-> Additional nodes are added in disabled state to add additional segments if desired.{: .prompt-tip }
+> Additional nodes are added in disabled state to add additional segments if desired.
+{: .prompt-tip }
 
 ![Overview of Node Red Flow](https://github.com/user-attachments/assets/ba59dab3-1412-4a97-938f-6d814bdcccf3)
 
