@@ -5,7 +5,7 @@ categories: [Home Assistant, Node-Red]
 tags: [homeassistant, nodered]     # TAG names should always be lowercase
 ---
 
-This explains how to use a Node-Red flow to pull three different Home Assistant door sensors open and closed status into the individual [Inovelli Blue Dimmer](https://inovelli.com/collections/inovelli-blue-series/products/zigbee-matter-blue-series-smart-2-1-on-off-dimmer-switch) switch LEDs.  Three different LED will light depending on the door left open. The individual LEDs will restore to normal state after door closure. This should work on other latest gen Inovelli switches as well.  JSON is being sent to the Inovelli switch via MQTT using the zigbee2mqtt set commands.
+This explains how to use a Node-Red flow to pull three different Home Assistant door sensors open and closed status into the individual [Inovelli Blue Dimmer](https://inovelli.com/collections/inovelli-blue-series/products/zigbee-matter-blue-series-smart-2-1-on-off-dimmer-switch) switch LEDs.  Three different LED will light depending on the door left open. The individual LEDs will restore to normal state after door closure. This should work on other latest gen Inovelli switches as well.  JSON is being sent to the Inovelli switch via MQTT using the zigbee2mqtt set command.
 
 > Use [Inovelli Notification Calc](https://nathanfiscus.github.io/inovelli-notification-calc/) for your color values.
 {: .prompt-tip }
