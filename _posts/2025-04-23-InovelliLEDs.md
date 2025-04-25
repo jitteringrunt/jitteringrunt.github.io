@@ -35,7 +35,7 @@ This explains how to use a Node-Red flow to pull three different Home Assistant 
 > 
 >![Two Doors Open With Teal, Purple and Pink L E D](https://github.com/user-attachments/assets/9b035647-6575-4f2a-ad61-e74d1343c990){: .w-75 .normal}
 
-#### Flow Code:
+#### Flow Code
 ```json
 [
     {
