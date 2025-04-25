@@ -39,9 +39,9 @@ The template card will look at the entity template sensor value and if, elif, el
 
 Additionally I am using card mod to change the card background if the door value is > 0
 
-#### Mushroom Template Door Card Code:
+#### Mushroom Template Door Card Code
 {% raw %}
-```
+```yaml
       - type: custom:mushroom-template-card
         primary: Locks
         secondary: |-
@@ -118,7 +118,7 @@ Another option would tracking lights on in your house.  I use badge icons for th
 
 #### Mushroom Template Light Card Code:
 {% raw %}
-```
+```yaml
 - type: custom:mushroom-template-card
         primary: Lights
         secondary: |-
